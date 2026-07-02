@@ -66,3 +66,11 @@ No license has been specified for this repository.
 ---
 
 If you find this repository helpful or inspiring, consider giving it a ⭐.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
