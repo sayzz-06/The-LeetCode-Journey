@@ -73,4 +73,12 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
