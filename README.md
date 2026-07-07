@@ -79,6 +79,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | [0001-two-sum](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
