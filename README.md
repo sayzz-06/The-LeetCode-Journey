@@ -84,6 +84,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | [0219-contains-duplicate-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
