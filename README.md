@@ -74,6 +74,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | ------- |
 | [0009-palindrome-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -121,6 +122,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -148,5 +150,6 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
