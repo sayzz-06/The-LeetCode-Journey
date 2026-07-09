@@ -94,6 +94,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | [0219-contains-duplicate-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +126,12 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
