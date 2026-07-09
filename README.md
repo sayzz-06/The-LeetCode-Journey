@@ -95,6 +95,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | [0349-intersection-of-two-arrays](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | [0088-merge-sorted-array](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +133,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
