@@ -74,6 +74,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | ------- |
 | [0009-palindrome-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -144,4 +145,8 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
