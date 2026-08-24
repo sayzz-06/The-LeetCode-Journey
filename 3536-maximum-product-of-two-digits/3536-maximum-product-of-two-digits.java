@@ -6,15 +6,14 @@ class Solution {
         int b;
         while(n!=0)
         {
-            b=n%10;
-            if(b>m1)
+            if((n%10)>m1)
             {
-                m1=b;
+                m1=(n%10);
             }
-             if(b>m2)
+             if((n%10)>m2)
             {
                 m1=m2;
-                m2=b;
+                m2=(n%10);
             }
             n=n/10;
         }
