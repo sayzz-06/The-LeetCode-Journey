@@ -92,6 +92,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -127,6 +128,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0389-find-the-difference) |
