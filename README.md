@@ -76,6 +76,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | [0202-happy-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0326-power-of-three) |
+| [3536-maximum-product-of-two-digits](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@ If you find this repository helpful or inspiring, consider giving it a ⭐.
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/0414-third-maximum-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/sayzz-06/The-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
